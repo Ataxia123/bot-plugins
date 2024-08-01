@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@builderbot/bot": ">=1.1.*",
-    "@builderbot-plugins/shopify": "^0.2.13-alpha.0",
+    "@builderbot-plugins/langchain": "^0.2.13-alpha.0",
     "@builderbot-plugins/telegram": "^0.2.13-alpha.0",
     "sharp": "^0.33.2"
   }

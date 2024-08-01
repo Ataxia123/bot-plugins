@@ -1,1 +1,0 @@
-export { geminiLayer } from "./layer"

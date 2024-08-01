@@ -71,10 +71,10 @@ npx lerna run build --scope=<nombre_del_paquete>
 
 #### Ejecutar Entorno de Prueba
 
-Once you have run the build and everything is correct, run the following command in your terminal:
+Once you have run the build and everything is correct, run the following command in your terminal to move the template to ./base:
 
 ```bash
-pnpm run copy.lib
+pnpm run create.app
 ```
 
 This command will copy the necessary files into the base_app folder. Make sure you have previously run npm install within the `base_app` folder. Then, from the root of your directory, run:

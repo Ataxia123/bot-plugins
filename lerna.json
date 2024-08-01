@@ -3,10 +3,8 @@
   "version": "independent",
   "packages": [
     "packages/telegram",
-    "packages/shopify",
     "packages/openai-agents",
     "packages/free-gpt",
-    "packages/gemini",
     "packages/fast-embedding",
     "packages/langchain",
     "packages/wali",
